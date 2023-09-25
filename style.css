@@ -1,0 +1,34 @@
+body {font-family: Georgia;}
+
+.title {
+    background-color: darkgreen;
+    border: 1px solid;
+    height: 50px;
+    width: 350px;
+}
+
+.insideContainer {
+    background-color: yellow;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height: 150px;
+    width: 175px;
+    display: inline-block;
+    align-items: center;
+
+}
+
+h1 {
+    color:blueviolet;
+    text-align:center
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    height: 150px;
+    width: 175px;
+}
